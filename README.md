@@ -86,7 +86,7 @@ HMS-Backend/
 
 All APIs have been thoroughly tested with Postman. You can access the complete Postman collection here:
 
-[![Run in Postman](https://run.pstmn.io/button.svg)]([https://www.postman.com/your-postman-link](https://.postman.co/workspace/API-postman-certificate~41201e66-d4f2-49af-ad92-4149c6f03e20/collection/40552469-38dae73c-5639-4269-8474-e81290f6ab2c?action=share&creator=40552469))
+[![Run in Postman](https://.postman.co/workspace/API-postman-certificate~41201e66-d4f2-49af-ad92-4149c6f03e20/collection/40552469-38dae73c-5639-4269-8474-e81290f6ab2c?action=share&creator=40552469)
 
 ### Available Endpoints:
 
@@ -126,8 +126,6 @@ All APIs have been thoroughly tested with Postman. You can access the complete P
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
-
-MutHu-19 - [Your Email](mailto:your.email@example.com)
 
 Project Link: [https://github.com/mutHu-19/HMS-Backend](https://github.com/mutHu-19/HMS-Backend)
 
