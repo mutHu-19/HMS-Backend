@@ -13,7 +13,7 @@ A robust backend system for Hospital Management built with Node.js, Express, and
 - **User Management**
   - Patient registration and authentication
   - Admin and doctor account management
-  - Secure JWT authentication
+  - Secure JWT authenticationz
 
 - **Appointment System**
   - Book, update, and cancel appointments
@@ -86,7 +86,7 @@ HMS-Backend/
 
 All APIs have been thoroughly tested with Postman. You can access the complete Postman collection here:
 
-[![Run in Postman](https://.postman.co/workspace/API-postman-certificate~41201e66-d4f2-49af-ad92-4149c6f03e20/collection/40552469-38dae73c-5639-4269-8474-e81290f6ab2c?action=share&creator=40552469)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://.postman.co/workspace/API-postman-certificate~41201e66-d4f2-49af-ad92-4149c6f03e20/collection/40552469-38dae73c-5639-4269-8474-e81290f6ab2c?action=share&creator=40552469)
 
 ### Available Endpoints:
 
